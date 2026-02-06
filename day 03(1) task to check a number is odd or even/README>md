@@ -1,0 +1,12 @@
+# Day-03-
+internship assessment of day-03
+# Program to check whether a number is Odd or Even
+
+num = int(input("Enter an integer number: "))
+if num % 2 == 0:
+    print(num, "is an Even number")
+else:
+    print(num, "is an Odd number")
+
+print("Program executed successfully.")
+
